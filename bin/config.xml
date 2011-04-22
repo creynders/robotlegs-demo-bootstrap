@@ -1,0 +1,5 @@
+<config>
+	<settings domain="localhost">
+		<cssFileURL>flash.css</cssFileURL>
+	</settings>
+</config>
