@@ -6,7 +6,6 @@ package org.robotlegs.demos.bootstrap.core.service.actors
 	import flash.text.StyleSheet;
 	
 	import org.osflash.signals.natives.NativeSignal;
-	import org.robotlegs.demos.bootstrap.core.service.interfaces.IStyleSheetFileService;
 	import org.robotlegs.demos.bootstrap.core.service.signals.StyleSheetFileLoadedSignal;
 	import org.robotlegs.mvcs.Actor;
 	

@@ -7,8 +7,8 @@ package org.robotlegs.demos.bootstrap
 	import org.robotlegs.base.ViewInterfaceMediatorMap;
 	import org.robotlegs.core.ICommandMap;
 	import org.robotlegs.core.IMediatorMap;
-	import org.robotlegs.demos.bootstrap.bootstrap.controllers.BootstrapApplicationCommand;
-	import org.robotlegs.demos.bootstrap.startup.signals.BootstrapSignal;
+	import org.robotlegs.demos.bootstrap.bootstrap.controller.commands.BootstrapApplicationCommand;
+	import org.robotlegs.demos.bootstrap.startup.controller.signals.BootstrapSignal;
 	import org.robotlegs.mvcs.Context;
 	import org.robotlegs.mvcs.SignalContext;
 	import org.robotlegs.utilities.macrobot.MacroCommandMap;
